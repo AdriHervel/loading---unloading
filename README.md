@@ -32,7 +32,7 @@ Este proyecto implementa un microservicio en Python para gestionar información 
 La estructura del proyecto está organizada de la siguiente manera:
 
 ```plaintext
-project-root/
+loading-&-unloading/
 ├── app/
 │   ├── api/                # Endpoints de la API
 │   ├── core/               # Seguridad, autenticación y utilidades
